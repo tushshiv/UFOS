@@ -24,9 +24,9 @@ The page contains the left side (fig a) a filter tool that will enable the user 
 
 Main drawback:
 
-*The search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown.
+* The search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown.
 
 Recommendations:
-*Add additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
+* Add additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
 
-*Add functionality to pull the data from a live source that includes current and archived data not limited to only the United States, but globally.
+* Add functionality to pull the data from a live source that includes current and archived data not limited to only the United States, but globally.
