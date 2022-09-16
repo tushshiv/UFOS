@@ -12,13 +12,14 @@ Search filters that will allow for visitors to update the table based on the sea
 ## Results
 The ufo page UFO sightings- The truth is out was created and this is the first look of the page.
 
- [img](ufo_page_firstlook.jpg)
+ ![img](ufo_page_firstlook.jpg)
 
-The page contains the left side (fig a) a filter tool that will enable the user to search ufo sightings as per the **date, City, State, Country** and the **shape** of the UFO seen by sources.
+The page contains the left side (fig a) a filter tool that will enable the user to search ufo sightings as per the **date, City, State, Country** and the **shape** of the UFO seen by sources and the right side displays the output of the the filter. The image below dipslays the page before any filter is assigned.
 
-[img_01](basic_page.jpg)
+![img_01](basic_page.jpg)
 
-[img_02](benton_filter.jpg)
+The image below displays the webpage afte a filter for the city **"benton"** is assigned to the page adn the right side displays the output.
+![img_02](benton_filter.jpg)
 
 
 ## Drawbacks:
