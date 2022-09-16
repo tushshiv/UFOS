@@ -16,9 +16,9 @@ The ufo page UFO sightings- The truth is out was created and this is the first l
 
 The page contains the left side (fig a) a filter tool that will enable the user to search ufo sightings as per the **date, City, State, Country** and the **shape** of the UFO seen by sources.
 
-[img](basic_page.jpg)
+[img_01](basic_page.jpg)
 
-[img](benton_filter.jpg)
+[img_02](benton_filter.jpg)
 
 
 ## Drawbacks:
