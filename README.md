@@ -1,8 +1,8 @@
 # UFOS
-## Purpose
+## Overview
 The Purpose of this project is to learn how to extract data from an array in the javascript array and create a table that adjusts according to real time updates to the array.
 
-## Background
+### Background
 Are we alone in this universe? UFO sightings have been an obsession among many for centuries. Are they real or some government conspiracy? We have been tasked to help Dana with building a webpage in which others can access information of reported sightings and see for themselves. This webpage should include:
 
 A description or summary of the topic
@@ -11,3 +11,21 @@ Search filters that will allow for visitors to update the table based on the sea
 
 ## Results
 The ufo page UFO sightings- The truth is out was created and this is the first look of the page.
+
+[img]()
+
+The page contains the left side (fig a) a filter tool that will enable the user to search ufo sightings as per the **date, City, State, Country** and the **shape** of the UFO seen by sources.
+[img]()
+
+
+
+
+## Drawbacks:
+
+Unfortunately, the page has several drawbacks. They include:
+
+The search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown.
+
+There is no button to click, wording or action that tells the user that the table will update after you hit "enter".
+
+The data is limited and outdated since it is not linked to a "live" source.
