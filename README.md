@@ -18,7 +18,7 @@ The page contains the left side (fig a) a filter tool that will enable the user 
 
 [img](basic_page.jpg)
 
-[img](benton_filter.png)
+[img](benton_filter.jpg)
 
 
 ## Drawbacks:
